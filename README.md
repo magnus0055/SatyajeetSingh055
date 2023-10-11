@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Satyajeet Singh</h1>
 <h3 align="center">I am Satyajeet Singh, a passionate student at IIIT Kota with a strong background in full-stack development. My significant experience includes being the lead frontend developer for our college website, where I focused on designing engaging user interfaces and ensuring top-notch website functionality. Collaborating with a diverse team, I've successfully implemented innovative features and updates, combining my technical skills with a user-centric approach. This role has not only sharpened my technical prowess but also instilled in me the value of teamwork and problem-solving. I am eager to take on new challenges and continue my journey in creating exceptional digital experiences.</h3>
 
-
 <img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
